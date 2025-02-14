@@ -143,7 +143,7 @@ The bill of materials (BOM) for this project is ~$20 - $40 depending on where yo
    - Refer to the wiring diagram below to connect the battery, charge controller, LED matrix, power switch, and D1 Mini.
    - Make sure all solder joints are secure and insulated with heat shrink tubing where necessary.
 
-   ![circuit_image](https://github.com/user-attachments/assets/96db2838-9858-4f6c-a194-29c222277b77)
+  ![circuit_image (1)](https://github.com/user-attachments/assets/a1453730-6482-458c-9307-6c6e9394a03b)
 
 2. **Final Assembly:**  
    - Once all wiring is complete, connect the battery.
