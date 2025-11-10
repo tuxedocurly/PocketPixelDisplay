@@ -16,7 +16,7 @@ This project is a labor of love, built during my spare time. If you've found thi
 *   Experiment with new features and ideas
 *   Kickstart other open-source projects you might love
 
-<a href="https://buymeacoffee.com/tuxedomakes"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tuxedomakes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://ko-fi.com/tuxedomakes/shop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tuxedomakes&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Even a small coffee-sized contribution goes a long way in fueling my passion for sharing my projects with you all. If you use the shop, you'll get a useful part for your next project, plus my eternal gratitude!
 
